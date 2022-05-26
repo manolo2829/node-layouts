@@ -1,0 +1,3 @@
+//ejs es el motor de plantillas
+npm i express ejs
+npm i express-ejs-layouts
